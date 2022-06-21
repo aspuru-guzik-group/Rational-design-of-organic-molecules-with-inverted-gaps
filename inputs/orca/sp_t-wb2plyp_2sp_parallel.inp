@@ -1,0 +1,19 @@
+! RI-wB2PLYP SP def2-SVP def2-SVP/C RIJCOSX def2/J TightSCF MiniPrint NoMOPrint Grid5 NoFinalGrid Gridx5 NoFinalGridX KDIIS NOSOSCF FLOAT
+%scf
+GuessMode FMatrix
+MaxIter 2000
+DirectResetFreq 1
+DIISMaxEq 20
+CNVSHIFT TRUE
+LEVELSHIFT 0.5
+end
+%cis
+mode riints_disk
+nroots 4
+triplets true
+dcorr 1
+end
+
+* xyz 0 1
+xxxxx
+*

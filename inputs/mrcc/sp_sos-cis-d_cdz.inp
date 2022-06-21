@@ -1,0 +1,13 @@
+basis=cc-pVDZ
+calc=sos-cis(d)
+dfbasis_scf=auto
+dfbasis_cor=auto
+nsing=5
+ntrip=4
+redcost_exc=on
+charge=0
+mult=1
+symm=off
+
+geom=xyz
+yyyyy

@@ -1,0 +1,12 @@
+! B97-3c TightOPT Grid5 NoFinalGrid MiniPrint NoMOPrint
+%geom
+TolE 1e-8
+TolMaxG 1e-5
+TolRMSG 5e-6
+TolMaxD 5e-5
+TolRMSD 1e-5
+end
+
+* xyz 0 1
+xxxxx
+*
