@@ -4,7 +4,7 @@
 ### Paper: (to be published)
 ### Contact: rob.pollice@utoronto.ca and aspuru@utoronto.ca
 
-This repository contains template input files (inputs), computation results (results), optimized geometries (xyzs), a list of all compounds studied in the paper together with their SMILES (numbers_smiles.txt), and a list of compound labels discussed in the main text of the paper (main_si_numbers.txt). The xyz files are provided as split tar archive. To combine and extract this archive, you can use the following command `cat xyz.tar.part.* | tar -xf`.
+This repository contains template input files (inputs), computation results (results), optimized geometries (xyzs), a list of all compounds studied in the paper together with their SMILES (numbers_smiles.txt), and a list of compound labels discussed in the main text of the paper (main_si_numbers.txt). The xyz files are provided as split tar archive. To combine and extract this archive, you can use the following command `cat xyz.tar.part.* | tar -x`.
 
 ### License: [![CC BY NC SA 4.0][cc-by-nc-sa-button]][cc-by-nc-sa] [CC BY-NC-SA 4.0][cc-by-nc-sa]
 
