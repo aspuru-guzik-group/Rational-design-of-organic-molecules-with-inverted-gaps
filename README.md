@@ -11,4 +11,4 @@ This repository contains template input files (inputs), computation results (res
 [cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-button]: https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
 
-### DOI: (to be created)
+### DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14673626.svg)](https://doi.org/10.5281/zenodo.14673626)
